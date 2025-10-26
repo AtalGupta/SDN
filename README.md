@@ -1,16 +1,9 @@
 # SDN Northbound Application for Dynamic Routing
 
-![Java](https://img.shields.io/badge/Java-11+-orange?style=flat&logo=java)
-![ONOS](https://img.shields.io/badge/ONOS-2.7.0-blue?style=flat)
-![OpenFlow](https://img.shields.io/badge/OpenFlow-1.3-green?style=flat)
-![Maven](https://img.shields.io/badge/Maven-3.6+-red?style=flat&logo=apache-maven)
-![License](https://img.shields.io/badge/License-Apache%202.0-yellow?style=flat)
 
 **Java-based intelligent traffic monitoring and adaptive routing for Software-Defined Networks**
 
 A production-ready Northbound Application built on the ONOS controller that monitors real-time traffic metrics and dynamically reconfigures routing paths using OpenFlow protocols. Implements automated congestion detection and adaptive route optimization to improve network throughput and resource utilization in Mininet topologies.
-
-> 📊 **Project Highlights**: 30%+ latency reduction • Automated congestion detection • Graph-based path optimization • Event-driven architecture
 
 ---
 
